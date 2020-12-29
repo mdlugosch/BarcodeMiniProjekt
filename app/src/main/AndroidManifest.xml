@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mdlugosch.barcodeminiprojekt">
 
-    <!-- Die Kamera benötigt zugang zur Kamera -->
+    <!-- Die App benötigt Zugang zur Kamera -->
     <uses-feature android:name="android.hardware.Camera.autofocus" />
     <uses-permission android:name="android.permission.CAMERA" />
 
